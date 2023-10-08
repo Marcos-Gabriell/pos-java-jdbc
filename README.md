@@ -17,7 +17,7 @@ O projeto é uma aplicação simples que demonstra o uso da API JDBC para intera
 Antes de começar, certifique-se de ter instalado em sua máquina:
 
 - [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html): Certifique-se de ter o Java Development Kit instalado.
-- Um banco de dados de usua preferência
+- Um banco de dados da sua preferência
 - Uma IDE (Ambiente de Desenvolvimento Integrado) ou um editor de código: Você pode escolher entre várias opções populares, como:
   - [Eclipse](https://www.eclipse.org/downloads/): Uma IDE poderosa e amplamente utilizada para desenvolvimento Java.
   - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/): Uma IDE popular com uma gama de recursos avançados.
