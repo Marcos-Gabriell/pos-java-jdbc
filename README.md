@@ -1,4 +1,4 @@
-# Projeto de Estudos de JDBC e Banco de Dados
+# Projeto de Estudos de JDBC, Banco de Dados e JAVA
 
 Este é o repositório do projeto voltado aos estudos de JDBC e banco de dados em geral, desenvolvido com o objetivo de aprofundar os conhecimentos sobre interação com bancos de dados utilizando a tecnologia JDBC em Java.
 
