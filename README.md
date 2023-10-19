@@ -5,9 +5,7 @@ Este é o repositório do projeto voltado aos estudos de JDBC e banco de dados e
 ## Linguagens e ferramentas  usadas
 <div >
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-     <img align="center" alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
-
-
+    <img align="center" alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 ## Descrição
 
 O projeto é uma aplicação simples que demonstra o uso da API JDBC para interagir com bancos de dados relacionais. Ele foi criado como parte de um estudo autodidata para entender como realizar operações de CRUD (Create, Read, Update, Delete) utilizando Java e JDBC.
