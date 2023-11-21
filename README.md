@@ -9,7 +9,6 @@ Este é o repositório do projeto voltado aos estudos de JDBC e banco de dados e
      <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 
-
 ## Descrição
 
 O projeto é uma aplicação simples que demonstra o uso da API JDBC para interagir com bancos de dados relacionais. Ele foi criado como parte de um estudo autodidata para entender como realizar operações de CRUD (Create, Read, Update, Delete) utilizando Java e JDBC.
