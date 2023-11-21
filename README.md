@@ -33,6 +33,7 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 Certifique-se de ter uma das IDEs acima instalada para facilitar o desenvolvimento e a execução do projeto.
 
 - Um banco de dados instalado e configurado: Este projeto pode ser adaptado para diferentes bancos de dados. Certifique-se de ter um banco de dados (por exemplo, MySQL, PostgreSQL) instalado e as credenciais de acesso configuradas.
+  
 
 ## Como Usar
 
